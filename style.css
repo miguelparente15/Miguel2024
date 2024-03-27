@@ -3,13 +3,13 @@
 body
 {
 background-color: black;
-color: white;
-font-size: 12pt;
+color: green;
+font-size: 15pt;
 font-family: Arial;
 }
 
 h1
 {
-color: write;
-font-size: 20pt;
+color: red;
+font-size: 30pt;
 }
